@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import _logger from "sabio-debug";
 import * as adminDashboardService from "../../services/adminDashboardService";
 import Messages from "../../components/message/Message";
 
