@@ -1,0 +1,88 @@
+.card2-body {
+  height: 250px;
+  width: 100%;
+  padding: 0px;
+  position: relative;
+}
+.flot-base {
+  width: 777;
+  height: 250;
+  direction: "ltr";
+  position: "absolute";
+  left: "0px";
+  top: "0px";
+  width: "777.25px";
+  height: "250px";
+}
+.flot-text {
+  position: "absolute";
+  top: "0px";
+  left: "0px";
+  bottom: "0px";
+  right: "0px";
+  font-size: "smaller";
+  color: "rgb(84, 84, 84)";
+}
+.flot-x-axis {
+  position: "absolute";
+  top: "0px";
+  left: "0px";
+  bottom: "0px";
+  right: "0px";
+}
+/* .flot-tick1-label {
+  position: "absolute";
+  max-width: "111px";
+  top: "232px";
+  left: "15px";
+  text-align: "center";
+}
+.flot-tick2 {
+  position: "absolute";
+  max-width: "111px";
+  top: "232px";
+  left: "139px";
+  text-align: "center";
+}
+.flot-tick3 {
+  position: "absolute";
+  max-width: "111px";
+  top: "232px";
+  left: "262px";
+  text-align: "center";
+}
+.flot-tick4 {
+  position: "absolute";
+  max-width: "111px";
+  top: "232px";
+  left: "386px";
+  text-align: "center";
+}
+.flot-tick5 {
+  position: "absolute";
+  max-width: "111px";
+  top: "232px";
+  left: "512px";
+  text-align: "center";
+}
+.flot-tick6 {
+  position: "absolute";
+  max-width: "111px";
+  top: "232px";
+  left: "634px";
+  text-align: "center";
+}
+.flot-tick7 {
+  position: "absolute";
+  max-width: "111px";
+  top: "232px";
+  left: "758px";
+  text-align: "center";
+}
+.flot-y-axis {
+  position: "absolute";
+  top: "0px";
+  left: "0px";
+  bottom: "0px";
+  right: "0px";
+} */
