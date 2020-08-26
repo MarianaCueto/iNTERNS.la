@@ -1,7 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { getForDash } from "../../services/organizationsServices";
-import logger from "sabio-debug";
 import OrgMainCard from "./OrgMainCard";
 import "../venue/Venue.css";
 
