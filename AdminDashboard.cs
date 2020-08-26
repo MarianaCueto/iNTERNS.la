@@ -1,6 +1,8 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-
-namespace .Models.Domain
+namespace Sabio.Models.Domain
 {
     public class AdminDashboard
     {
