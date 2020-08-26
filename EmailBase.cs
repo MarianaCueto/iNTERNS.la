@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sabio.Models.Requests.EmailService
+namespace Models.Requests.EmailService
 {
     public class EmailBase
     {
