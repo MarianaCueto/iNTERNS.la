@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import _logger from "sabio-debug";
 import * as organization from "../../services/orgMembersService";
 import * as orgDash from "../../services/orgDashService";
 import * as organizationService from "../../services/organizationsServices";
