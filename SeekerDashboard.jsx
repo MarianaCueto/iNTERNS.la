@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import _logger from "sabio-debug";
 import getById from "../../services/seekerDashboardService";
 import Message from "../message/Message";
 import InstantMessager from "../message/InstantMessager";
