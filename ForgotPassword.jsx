@@ -1,5 +1,4 @@
 import React from "react";
-import _logger from "sabio-debug";
 import { Form, FormGroup } from "reactstrap";
 import { Formik, Field } from "formik";
 import PropTypes from "prop-types";
