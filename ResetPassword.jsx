@@ -2,7 +2,6 @@ import React from "react";
 import { Form, FormGroup } from "reactstrap";
 import { Formik, Field } from "formik";
 import { resetPasswordValidationSchema } from "./resetPasswordValidationSchema";
-import _logger from "sabio-debug";
 import { resetPassword } from "../../services/userService";
 import PropTypes from "prop-types";
 import swal from "sweetalert";
