@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Sabio.Models.Requests.Token
+namespace Models.Requests.Token
 {
    public class TokenAddRequest
     {
