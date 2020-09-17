@@ -8,8 +8,6 @@ Prop types will be enforced.
 
 ---
 
----
-
 ## Ajax calls with Axios
 
 An example call may look like this:
