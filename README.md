@@ -8,24 +8,7 @@ Prop types will be enforced.
 
 ---
 
-## Ajax calls with Axios
 
-An example call may look like this:
-
-```js
-const create = payload => {
-  const config = {
-    method: "POST",
-    // make note of the helpers.API_HOST_PREFIX
-    url: helpers.API_HOST_PREFIX + "/api/blogs",
-    data: payload,
-    crossdomain: true,
-    headers: { "Content-Type": "application/json" }
-  };
-  return axios(config)
-    .then(helpers.onGlobalSuccess)
-    .catch(helpers.onGlobalError);
-};
 ````
 
 ## Messages to user
